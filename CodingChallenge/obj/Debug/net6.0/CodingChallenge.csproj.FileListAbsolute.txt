@@ -1,0 +1,14 @@
+C:\Development\Testers\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.exe
+C:\Development\Testers\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.deps.json
+C:\Development\Testers\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.runtimeconfig.json
+C:\Development\Testers\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.dll
+C:\Development\Testers\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.pdb
+C:\Development\Testers\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Testers\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.AssemblyInfoInputs.cache
+C:\Development\Testers\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.AssemblyInfo.cs
+C:\Development\Testers\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Development\Testers\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.dll
+C:\Development\Testers\CodingChallenge\CodingChallenge\obj\Debug\net6.0\refint\CodingChallenge.dll
+C:\Development\Testers\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.pdb
+C:\Development\Testers\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.genruntimeconfig.cache
+C:\Development\Testers\CodingChallenge\CodingChallenge\obj\Debug\net6.0\ref\CodingChallenge.dll

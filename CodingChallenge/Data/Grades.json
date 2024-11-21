@@ -1,0 +1,182 @@
+[
+  {
+    "Student": 1,
+    "Professor": 1,
+    "Grade": 85
+  },
+  {
+    "Student": 1,
+    "Professor": 3,
+    "Grade": 81
+  },
+  {
+    "Student": 1,
+    "Professor": 5,
+    "Grade": 94
+  },
+  {
+    "Student": 2,
+    "Professor": 1,
+    "Grade": 76
+  },
+  {
+    "Student": 2,
+    "Professor": 3,
+    "Grade": 74
+  },
+  {
+    "Student": 2,
+    "Professor": 5,
+    "Grade": 79
+  },
+  {
+    "Student": 3,
+    "Professor": 1,
+    "Grade": 97
+  },
+  {
+    "Student": 3,
+    "Professor": 3,
+    "Grade": 98
+  },
+  {
+    "Student": 3,
+    "Professor": 6,
+    "Grade": 96
+  },
+  {
+    "Student": 4,
+    "Professor": 1,
+    "Grade": 81
+  },
+  {
+    "Student": 4,
+    "Professor": 4,
+    "Grade": 83
+  },
+  {
+    "Student": 4,
+    "Professor": 6,
+    "Grade": 79
+  },
+  {
+    "Student": 5,
+    "Professor": 1,
+    "Grade": 73
+  },
+  {
+    "Student": 5,
+    "Professor": 4,
+    "Grade": 85
+  },
+  {
+    "Student": 5,
+    "Professor": 5,
+    "Grade": 80
+  },
+  {
+    "Student": 6,
+    "Professor": 1,
+    "Grade": 69
+  },
+  {
+    "Student": 6,
+    "Professor": 4,
+    "Grade": 67
+  },
+  {
+    "Student": 6,
+    "Professor": 5,
+    "Grade": 65
+  },
+  {
+    "Student": 7,
+    "Professor": 2,
+    "Grade": 91
+  },
+  {
+    "Student": 7,
+    "Professor": 3,
+    "Grade": 92
+  },
+  {
+    "Student": 7,
+    "Professor": 6,
+    "Grade": 91
+  },
+  {
+    "Student": 8,
+    "Professor": 2,
+    "Grade": 73
+  },
+  {
+    "Student": 8,
+    "Professor": 3,
+    "Grade": 76
+  },
+  {
+    "Student": 8,
+    "Professor": 6,
+    "Grade": 77
+  },
+  {
+    "Student": 9,
+    "Professor": 2,
+    "Grade": 88
+  },
+  {
+    "Student": 9,
+    "Professor": 3,
+    "Grade": 91
+  },
+  {
+    "Student": 9,
+    "Professor": 5,
+    "Grade": 90
+  },
+  {
+    "Student": 10,
+    "Professor": 2,
+    "Grade": 85
+  },
+  {
+    "Student": 10,
+    "Professor": 4,
+    "Grade": 90
+  },
+  {
+    "Student": 10,
+    "Professor": 5,
+    "Grade": 80
+  },
+  {
+    "Student": 11,
+    "Professor": 2,
+    "Grade": 74
+  },
+  {
+    "Student": 11,
+    "Professor": 4,
+    "Grade": 79
+  },
+  {
+    "Student": 11,
+    "Professor": 6,
+    "Grade": 72
+  },
+  {
+    "Student": 12,
+    "Professor": 2,
+    "Grade": 62
+  },
+  {
+    "Student": 12,
+    "Professor": 4,
+    "Grade": 67
+  },
+  {
+    "Student": 12,
+    "Professor": 6,
+    "Grade": 66
+  },
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ID": 1,
+    "Name": "Dana",
+    "Age": 19,
+    "EMail": "data@uni.com"
+  },
+  {
+    "ID": 2,
+    "Name": "Avi",
+    "Age": 28,
+    "EMail": "avi@uni.com"
+  },
+  {
+    "ID": 3,
+    "Name": "Chen",
+    "Age": 31,
+    "EMail": "chen@uni.com"
+  },
+  {
+    "ID": 4,
+    "Name": "Oren",
+    "Age": 25,
+    "EMail": "oren@uni.com"
+  },
+  {
+    "ID": 5,
+    "Name": "Osnat",
+    "Age": 24,
+    "EMail": "osnat@uni.com"
+  },
+  {
+    "ID": 6,
+    "Name": "Danielle",
+    "Age": 22,
+    "EMail": "danielle@uni.com"
+  },
+  {
+    "ID": 7,
+    "Name": "Keren",
+    "Age": 17,
+    "EMail": "keren@uni.com"
+  },
+  {
+    "ID": 8,
+    "Name": "Meital",
+    "Age": 25,
+    "EMail": "meital@uni.com"
+  },
+  {
+    "ID": 9,
+    "Name": "Zohar",
+    "Age": 23,
+    "EMail": "zohar@uni.com"
+  },
+  {
+    "ID": 10,
+    "Name": "Omer",
+    "Age": 21,
+    "EMail": "omer@uni.com"
+  },
+  {
+    "ID": 11,
+    "Name": "Einat",
+    "Age": 18,
+    "EMail": "einat@uni.com"
+  },
+  {
+    "ID": 12,
+    "Name": "Aviad",
+    "Age": 40,
+    "EMail": "aviad@uni.com"
+  }
+]
